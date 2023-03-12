@@ -1,4 +1,4 @@
-# Sales-Insights[Power BI | SQL]
+# SALES INSIGHTS -FURNITURE AND TECHNOLOGY BUSINESS
 For this project I have created a Business Intelligence(BI) Dashboard with the help of PowerBI.
 Power BI is a business analytics service by Microsoft. It aims to provide interactive visualizations and BI capabilities with an interface simple enough for end users to create their own reports and dashboards. 
 
